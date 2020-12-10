@@ -10,6 +10,19 @@ body {
   color:#646464;
   background-color:#efefef;
 }
+h4{
+ 
+  padding:1em;
+  
+}
+#follow{
+  margin-top: 5em;
+}#bg{
+  margin-top: 0px;
+  height: 40em;
+  width:100em;
+}
+
 
 h1,h2,h3,.highlight,.navbar a,#masthead h4 {
   font-family:'Oswald',arial narrow,sans-serif;

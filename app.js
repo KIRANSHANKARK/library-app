@@ -27,7 +27,7 @@ res.render("index",
     {
        nav,
         title:'Library',
-        heading:'Library'
+        heading:'Global Digital Library'
     }
 );
 });

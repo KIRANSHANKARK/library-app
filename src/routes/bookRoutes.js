@@ -18,7 +18,7 @@ function router(nav){
         {
             title:"Interstellar",
             author:"Nolan",
-            genre:"cartoon",
+            genre:"fiction",
             img:"Interstellar-366875261-large.jpg"
         }
     ]
